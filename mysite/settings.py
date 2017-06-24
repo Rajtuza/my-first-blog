@@ -25,7 +25,7 @@ SECRET_KEY = 'e8pa(7)2gvkcft_*7_7dys+ag85!f6z=8ovprxo$b=w+j2q8&q'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['myinnertheatre.pythonanywhere.com']
 
 
 # Application definition
